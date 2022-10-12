@@ -27,6 +27,7 @@ public class homeactivity extends AppCompatActivity {
 
         textViewResult = findViewById(R.id.textViewResult);
 
+
     }
 
     public void plus(View view) {
